@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html lang="es">
+	<meta name="viewport" content="device-width, intial-scale=1.0, minimum-scale=0.5, maximum-scale=2">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="pagina web del equipo TEAM SKY">
+	<meta name="keywords" content="team, equipo, sky, ciclismo">
+	<meta name="viewport" content="device-width,user-scalable=no, intial-scale=1,0, minimum-scale=1,0, maximum-scale=1,0">
+	<link rel="stylesheet"href="estilos/estilos.css">
+	<link rel="shortcut icon"type="image/x-icon"href="img/icono.ico">
+	<title>TEAM SKY</title>
+</head>
+<body>
+	<section id="contenedor">
+		<header>
+			<div id="logo"><img src="img/logo.jpg" alt="logo de team sky" title="logo team sky" width="100%" heigth="100%">
+			</div>
+			<div id="wrap">
+				<div id="widget">
+					<div id="fecha">
+						<p id="diaSemana" class="diaSemana"></p>
+						<p id="dia"></p>
+						<p>de</p>
+						<p id="mes"></p>
+						<p>del</p>
+						<p id="year"></p>
+					</div>
+					<div id="reloj">
+						<p id="horas"></p>
+						<p>:</p>
+						<p id="minutos"></p>
+						<p>:</p>
+						<div id="cajasegundos">
+							<p id="segundos"></p>
+							<p id="ampm"></p>
+							
+						</div>
+					</div>
+				</div>	
+			</div>
+			<h1 id= "titulo">EQUIPO DE CICLISMO TEAM SKY</h1>
+			<div id="menu">
+			<script src="reloj.js"></script>
+			<a href="http://jcgonzalezsab.github.io/inicio/index.html">Inicio</a>
+			<a href="http://jcgonzalezsab.github.io/inicio/ciclistas">Ciclistas</a>
+			<a href="http://jcgonzalezsab.github.io/inicio/sergio">Sergio hernao</a>
+			<a href="http://jcgonzalezsab.github.io/inicio/patrocinadores">Patrocinadores</a>
+			<a href="http://jcgonzalezsab.github.io/inicio/multimedia">Galeria</a>
+			<a href="http://jcgonzalezsab.github.io/inicio/torneos">Torneos</a>
+			</div>
+		</header>
+		<section id="galeria">
+			<article>
+				<h2>Galeria de Imagenes</h2>
+				<img src="http://www.aldia.cr/ciclismo/Sky-Tour-Francia-Christopher-Froome_ALDIMA20130628_0001_3.jpg">
+				<img src="http://www.elespectador.com/files/imagecache/560_width_display/imagenprincipal/5664f8106985b344093c950e404b3b46.jpg">
+				<img src="http://www.esciclismo.com/actualidad/imagenes/sky_team_cre_giro_trentino_et1b_2013_sirotti.jpg">
+				<img src="http://www.que.es/archivos/201207/equipo-lider-640x640x80.jpg">
+				<img src="https://40.media.tumblr.com/7f4350692ab94264b601465125521074/tumblr_nqtbrrf1OR1ropreyo1_1280.jpg">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Team_Sky_train_Cancer_Council_Helpline_Classic_2010.jpg">
+				<img src="https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2015/07/WATSON_00004288-062.jpg">
+				<img src="http://puncheur.rapha.cc/wp-content/uploads/2015/11/Sky-Announcement-Blog-1024x683.jpg">
+			</article>
+		</section>
+		<section id="sede">
+			<h2>VIDEOS</h2>
+			<embed src="video1.mp4"heigth="70%">
+			<embed src="video2.mp4" heigth="70%">
+		</section>
+
+		<aside>
+			<h3>Equipo Team SKY</h3>
+			<p>Durante los ultimos años el equipo a sobresaltado de la parte ciclistica, es por ello que he decidido realizar y sobrevalorar este equipo en particular, ademas alberga a dos pedalistas colombianos, cuya trayectoria no ha sido facil pero si de una forma u otra han enorgullesido a nuestro pais un par de veces.</p>
+			<h3>Diseño de sitios web</h3>
+			<p>Esta pagina esta diseñada con el fin de aprender el funcionamiento y la estructuracion basica de HTML5 y CSS3. UTilizando programas como <a href="http://www.sublimetext.com/2">sublime text2</a>, host gratuitos como <a href="https://github.com/">GITHUB</a>con el fin de proyectar a futuros diseñadores web el manejo esencial de herramientas en este ambito.</p><br/>
+			<a href="https://www.facebook.com/TeamSky/?fref=ts">www.facebook.com</a><br/><br/>
+			<a href="https://www.instagram.com/teamsky/">www.instagram.com</a><br/><br/>
+			<a href="https://twitter.com/TeamSky">www.twitter.com</a><br/><br/> 
+			</aside>
+		<footer>
+			<p>Todos los derechos reservados © 2016 Calle 4 #4-60 - Cimitarra Santander <br/>
+			Jefferson Camilo Gonzalez Sabogal - Estudiante de la Unad
+			</p>
+		</footer>
+	</section>
+	
+</body>
+
+</html>
