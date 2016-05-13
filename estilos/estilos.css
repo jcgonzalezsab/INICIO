@@ -57,6 +57,12 @@ header{
 	display: inline-block;
 	box-sizing:border-box;
 }
+#sergio, #imagen{
+	width: 30%;
+	float: left;
+	margin: 5px;
+	
+}
 table {
 	border: 1px solid #000;
 	width: 90%
@@ -90,6 +96,21 @@ h2 {
 }
 #sede img {
 	width: 90%;
+}
+#SKY{
+	width: 76%;
+	background: #24AAD7;
+	float:left;
+	padding: 10px;
+	text-align: justify;
+	font-family: verdana;
+	font-size: 16px;
+	box-sizing:border-box;
+}
+#PRIMERA, #amarillo{
+	width: 20%;
+	float: right;
+	margin: 5px;
 }
 aside{
 	width:24%;
