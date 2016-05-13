@@ -57,6 +57,24 @@ header{
 	display: inline-block;
 	box-sizing:border-box;
 }
+table {
+	border: 1px solid #000;
+	width: 90%
+}
+table td {
+	border: 1px solid #000;	
+}
+table tr:hover{
+	background: #ccc;
+}
+table td:hover{
+	background: yellow;
+	color:black;
+}
+#intro{
+	background: #000;
+	color: #fff;
+}
 h2 {
 	text-align: center;
 }
