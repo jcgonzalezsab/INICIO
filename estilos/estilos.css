@@ -21,6 +21,40 @@ header{
 	vertical-align: middle;
 	float: left;
 }
+#wrap{
+	clear:both;
+	width: 25%;
+	float: left;
+	position: fixed;
+	top: 180px;
+}
+#widget{
+	width: 100%;
+	
+}
+#widget p{
+	display: inline-block;
+	vertical-align: middle;
+	}
+#fecha {
+	font-family: Rosarivo, verdana;
+	text-align: center;
+	font-size: 16px;
+	background: rgba(0,0,0,.5);
+	margin-bottom:5px;
+	padding: 2px;
+}
+#reloj {
+	font-family: Rosarivo, verdana;
+	text-align: center;
+	font-size: 20px;
+	background: rgba(0,0,0,.5);
+	margin-bottom:5px;
+	padding: 2px;
+}
+#cajasegundos{
+	display: inline-block;
+}
 #titulo{
 	width: 70%;
 	height: 100px;
