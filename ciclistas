@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+<html lang="es">
+	<meta name="viewport" content="device-width, intial-scale=1.0, minimum-scale=0.5, maximum-scale=2">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="pagina web del equipo TEAM SKY">
+	<meta name="keywords" content="team, equipo, sky, ciclismo">
+	<meta name="viewport" content="device-width,user-scalable=no, intial-scale=1,0, minimum-scale=1,0, maximum-scale=1,0">
+	<link rel="stylesheet"href="estilos/estilos.css">
+	<link rel="shortcut icon"type="image/x-icon"href="img/icono.ico">
+	<title>TEAM SKY</title>
+</head>
+<body>
+	<section id="contenedor">
+		<header>
+			<div id="logo"><img src="img/logo.jpg" alt="logo de team sky" title="logo team sky" width="100%" heigth="100%">
+			</div>
+			<h1 id= "titulo">EQUIPO DE CICLISMO TEAM SKY</h1>
+			<div id="menu">
+			<a href="#">Inicio</a>
+			<a href="#">Ciclistas</a>
+			<a href="#">Sergio hernao</a>
+			<a href="#">Patrocinadores</a>
+			<a href="#">Galeria</a>
+			<a href="#">Torneos</a>
+		</div>
+		</header>
+		<section id="contenido">
+			<article>
+				<h2>Listado de los pedalistas del equipo</h2>
+				<table>
+					<tr id="intro">
+						<td>Nombre</td>
+						<td>Nacionalidad</td>
+						<td>Fecha de Nacimiento</td>
+					</tr>
+					<tr>
+						<td>IAN BOSWELL</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" alt="USA" title="USA">
+							ESTADOS UNIDOS</td>
+						<td>07/02/1991</td>
+					</tr>
+					<tr>
+						<td>PHILIP DEIGNAN</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png" alt="IRLANDA" title="IRL">
+							IRLANDA</td>
+						<td>07/09/1983</td>
+					</tr>
+					<tr>
+						<td>ANDREW FENN</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="REINO UNIDO" title="UK">
+							REINO UNIDO</td>
+						<td>01/07/1990</td>
+					</tr>
+					<tr>
+						<td>CHRIS FROOME</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="REINO UNIDO" title="UK">
+							REINO UNIDO</td>
+						<td>20/05/1985</td>
+					</tr>
+					<tr>
+						<td>SEBASTIAN HENAO</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" alt="COL" title="COL">
+							COLOMBIA</td>
+						<td>05/08/1993</td>
+					</tr>
+					<tr>
+						<td>SERGIO LUIS HENAO</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" alt="COL" title="COL">
+							COLOMBIA</td>
+						<td>10/12/1987</td>
+					</tr>
+					<tr>
+						<td>PETER KENNAUGH</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="REINO UNIDO" title="UK">
+							REINO UNIDO</td>
+						<td>15/06/1989</td>
+					</tr>
+					<tr>
+						<td>VASIL KIRYIENKA</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/20px-Flag_of_Belarus.svg.png" alt="BIELORRUSIA" title="BIE">
+							BIELORRUSIA</td>
+						<td>28/06/1981</td>
+					</tr>
+					<tr>
+						<td>CHRISTIAN KNEES</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" alt="ALEMANIA" title="GER">
+							ALEMANIA</td>
+						<td>05/06/1981</td>
+					</tr>
+					<tr>
+						<td>LEOPOLD KONIG</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/20px-Flag_of_the_Czech_Republic.svg.png" alt="REPUBLICA CHECA" title="CZE">
+							REPUBLICA CHECA</td>
+						<td>15/11/1987</td>
+					</tr>
+					<tr>
+						<td>DAVID LOPEZ</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="ESPAÑA" title="SPA">
+							ESPAÑA</td>
+						<td>13/05/1981</td>
+					</tr>
+					<tr>
+						<td>MIKEL NIEVE</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="ESPAÑA" title="SPA">
+							ESPAÑA</td>
+						<td>26/05/1984</td>
+					</tr>
+					<tr>
+						<td>LARS PETTER NORDHAUG</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/20px-Flag_of_Norway.svg.png" alt="NORUEGA" title="NOR">
+							NORUEGA</td>
+						<td>14/05/1984</td>
+					</tr>
+					<tr>
+						<td>WOUT POELS</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" alt="HOLANDA" title="HOL">
+							PAISES BAJOS</td>
+						<td>01/10/1987</td>
+					</tr>
+					<tr>
+						<td>SALVATORE PUCCIO</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="ITALIA" title="ITA">
+							ITALIA</td>
+						<td>31/08/1989</td>
+					</tr>
+					<tr>
+						<td>NICOLAS ROCHE</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png" alt="IRLANDA" title="IRL">
+							IRLANDA</td>
+						<td>03/07/1984</td>
+					</tr>
+					<tr>
+						<td>LUKE ROWE</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="REINO UNIDO" title="UK">
+							REINO UNIDO</td>
+						<td>10/03/1990</td>
+					</tr>
+					<tr>
+						<td>IAN STANNARD</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="REINO UNIDO" title="UK">
+							REINO UNIDO</td>
+						<td>25/05/1987</td>
+					</tr>
+					<tr>
+						<td>BEN SWIFT</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="REINO UNIDO" title="UK">
+							REINO UNIDO</td>
+						<td>06/12/1987</td>
+					</tr>
+					<tr>
+						<td>GERAINT THOMAS</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" alt="REINO UNIDO" title="UK">
+							REINO UNIDO</td>
+						<td>25/05/1986</td>
+					</tr>
+					<tr>
+						<td>ELIA VIVIANI</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" alt="ITALIA" title="ITA">
+							ITALIA</td>
+						<td>07/03/1989</td>
+					</tr>
+					<tr>
+						<td>XABIER ZANDIO</td>
+						<td>
+							<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" alt="ESPAÑA" title="SPA">
+							ESPAÑA</td>
+						<td>17/03/1977</td>
+					</tr>
+				</table>
+			</article>
+		</section>
+		<aside>
+			<h3>Equipo Team SKY</h3>
+			<p>Durante los ultimos años el equipo a sobresaltado de la parte ciclistica, es por ello que he decidido realizar y sobrevalorar este equipo en particular, ademas alberga a dos pedalistas colombianos, cuya trayectoria no ha sido facil pero si de una forma u otra han enorgullesido a nuestro pais un par de veces.</p>
+			<h3>Diseño de sitios web</h3>
+			<p>Esta pagina esta diseñada con el fin de aprender el funcionamiento y la estructuracion basica de HTML5 y CSS3. UTilizando programas como <a href="http://www.sublimetext.com/2">sublime text2</a>, host gratuitos como <a href="https://github.com/">GITHUB</a>con el fin de proyectar a futuros diseñadores web el manejo esencial de herramientas en este ambito.</p><br/>
+			<a href="https://www.facebook.com/TeamSky/?fref=ts">www.facebook.com</a><br/><br/>
+			<a href="https://www.instagram.com/teamsky/">www.instagram.com</a><br/><br/>
+			<a href="https://twitter.com/TeamSky">www.twitter.com</a><br/><br/> 
+		</aside>
+		<footer>
+			<p>Todos los derechos reservados © 2016 Calle 4 #4-60 - Cimitarra Santander <br/>
+			Jefferson Camilo Gonzalez Sabogal - Estudiante de la Unad
+			</p>
+		</footer>
+	</section>
+
+</body>
+
+</html>
